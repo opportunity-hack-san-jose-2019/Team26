@@ -2,7 +2,7 @@
 
 # FConnect+
 
-FConnect+ provides one stop shop for reliable resources and information for foster youth ages 17 - 25 years. 
+FConnect provides one stop shop for reliable resources and information for foster youth ages 17 - 25 years. 
 
 ## Key Features
 
